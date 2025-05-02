@@ -9,6 +9,7 @@ This is a SDK to integrate raytracing anti-xray into your Spigot/Paper fork, wit
 - [1.21.4 Leaf](https://github.com/Winds-Studio/Leaf/)
 - [1.21.x UniverseSpigot](https://discord.universespigot.com/)
 - [1.12.2 HybridFix (Mod brings SDK integration into hybrid servers)](https://github.com/HaHaWTH/HybridFix/)
+- [1.8.8 AzuriteSpigot](https://azuritedev.net/store/azuritespigot.4/)
 
 ## Why should you care? (as a developer of a Spigot/Paper fork)
 
